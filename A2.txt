@@ -1,0 +1,2 @@
+RECTANGLE,BOUNCE,red,50,80,shinbeom
+OVAL,FALL,orange,50,80,shinbeom
